@@ -1,7 +1,7 @@
 # modal
 ![viewfinal](modal.png)
 
-- [Demo Project](https://amin-banam.github.io/Persian_temp/)
+- [Demo Project](https://amin-banam.github.io/modal/)
 
 - Developed by amin-banam
 
